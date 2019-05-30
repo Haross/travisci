@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c225354-7239-4d30-b655-b240ac3a1a04" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Class1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Class1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,7 +56,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Class1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -94,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sonar-project.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="120">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -126,8 +125,8 @@
       <list>
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/Class1Test.java" />
-        <option value="$PROJECT_DIR$/sonar-project.properties" />
         <option value="$PROJECT_DIR$/src/main/java/Class1.java" />
+        <option value="$PROJECT_DIR$/sonar-project.properties" />
       </list>
     </option>
   </component>
@@ -148,6 +147,88 @@
             <path>
               <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
               <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="test-results" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="binary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="tmp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.test.javier" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +359,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559227121912</updated>
-      <workItem from="1559227125140" duration="2807000" />
+      <workItem from="1559227125140" duration="3019000" />
     </task>
     <servers />
   </component>
@@ -297,7 +378,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2807000" />
+    <option name="totallyTimeSpent" value="3019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -344,10 +425,16 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Class1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -362,23 +449,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="150">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Class1.java">
+    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#56#57#0" expanded="true" />
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
