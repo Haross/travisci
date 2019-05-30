@@ -3,4 +3,4 @@ jdk:
   - openjdk8
 addons:
   sonarcloud:
-    organization: "travisTest" # the key of the org you chose at step #3
+    organization: "haross-github" # the key of the org you chose at step #3
