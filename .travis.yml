@@ -6,5 +6,6 @@ addons:
     organization: "haross-github" # the key of the org you chose at step #3
 
 script:
-  # Put before sonar-scanner your other script steps
-  - sonar-scanner -Dsonar.verbose=true -X
+  - sonar-scanner
+notifications:
+  email: false
