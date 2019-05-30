@@ -1,8 +1,7 @@
-apply plugin: 'jacoco'
 plugins {
     id 'java'
 }
-
+apply plugin: 'jacoco'
 group 'com.test.javier'
 version '1.0-SNAPSHOT'
 
